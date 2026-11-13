@@ -11,8 +11,8 @@ This is how we begin working with someone new: the founder of a project, a partn
 
 | Step | What happens | Then |
 | --- | --- | --- |
-| 1. Accept the HerzCodex | The founder reads and accepts our shared ethics | Accepted: we talk. Not accepted: we don't engage |
-| 2. A Personal Talk | We get to know the founder and their initiative | Both sides choose freely whether to go on |
+| 1. Accept the HerzCodex | The founder reads and accepts our shared ethics | Accepted: we invite them to talk. Not accepted: we don't engage |
+| 2. Receive an Invitation to a Personal Talk | We invite the founder and get to know them and their initiative | Both sides choose freely whether to go on |
 | 3. Cleansing | We clear the founder's field with quantum and cosmic frequencies | We look together at what has changed |
 | 4. Realignment, Only Where Needed | Deeper work on what the cleansing showed | We begin working together |
 
@@ -24,9 +24,11 @@ Everyone who works with us lives by the same shared ethics. So this comes first,
 * **Accept:** by accepting it, the founder commits to live and work by it.
 * **Or part kindly:** if the founder does not accept it, we don't engage. There is no judgement, and they are welcome to come back later.
 
-### Step 2: A Personal Talk
+### Step 2: Receive an Invitation to a Personal Talk
 
-Relationship before transaction: we meet the founder as a human being first.
+Our network grows by invitation: nobody joins without one. Relationship before transaction: we meet the founder as a human being first.
+
+* **The invitation:** once the founder has accepted the HerzCodex, we invite them to a personal talk.
 
 * **Getting to know each other:** who the founder is, what their initiative does and why it matters to them.
 * **Listening:** what they need, and what they bring to the community.
