@@ -3,9 +3,9 @@
 * [Light Library ✧](README.md)
 * [HerzCodex ✧](herzcodex.md)
 
-## Entry Protocols
+## Joining Protocols
 
-* [Heart-Led Providers](entry-protocols/heart-led-providers.md)
+* [Heart-Led Providers](joining-protocols/heart-led-providers.md)
 
 ## Light Node Activation
 
