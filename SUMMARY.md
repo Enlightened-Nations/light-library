@@ -3,6 +3,10 @@
 * [Light Library ✧](README.md)
 * [HerzCodex ✧](herzcodex.md)
 
+## Entry Protocols
+
+* [Heart-Led Providers](entry-protocols/heart-led-providers.md)
+
 ## Light Node Activation
 
 * [Tree Planting](light-node-activation/tree-planting.md)
