@@ -1,43 +1,49 @@
 ---
 description: >-
-  How we begin working with a new founder, partner or initiative: three stages,
-  each ending with a free choice.
+  How we begin working with a new founder, partner or initiative: the HerzCodex
+  first, then a personal talk, a cleansing, and realignment only where needed.
 icon: door-open
 ---
 
 # Entry Protocol for Heart-Led Providers
 
-This is how we start working with someone new: the founder of a project, a partner or an initiative. There are three stages, always in this order. Each stage ends with a free choice. Nobody is pushed to the next one.
+This is how we begin working with someone new: the founder of a project, a partner or an initiative. There are four steps, always in this order. The HerzCodex is the door. The last step happens only where it is needed.
 
-| Stage | What happens | Ends with |
+| Step | What happens | Then |
 | --- | --- | --- |
-| 1. Opening the Field | The person feels the field for the first time | They choose whether to go on |
-| 2. Personal Realignment | The person looks at their own state and realigns | They are ready to go on |
-| 3. Commitment | The person agrees to five ethical principles | They join the work |
+| 1. Accept the HerzCodex | The founder reads and accepts our shared ethics | Accepted: we talk. Not accepted: we don't engage |
+| 2. A Personal Talk | We get to know the founder and their initiative | Both sides choose freely whether to go on |
+| 3. Cleansing | We clear the founder's field with quantum and cosmic frequencies | We look together at what has changed |
+| 4. Realignment, Only Where Needed | Deeper work on what the cleansing showed | We begin working together |
 
-### ✧ Stage 1: Opening the Field and First Experience
+### ✧ Step 1: Accept the HerzCodex
 
-The person meets the field before anything is asked of them.
+Everyone who works with us lives by the same shared ethics. So this comes first, before anything else.
 
-✦ **Opening the field:** the provider opens the field and activates the frequencies of their practice.\
-✦ **Personal resonance:** the person notices how they experience the field and how their own energy responds.\
-✦ **Free choice:** the person decides freely whether they want to continue.
+✦ **Read:** the founder reads the [HerzCodex](../herzcodex.md).\
+✦ **Accept:** by accepting it, the founder commits to live and work by it.\
+✦ **Or part kindly:** if the founder does not accept it, we don't engage. There is no judgement, and they are welcome to come back later.
 
-### ✧ Stage 2: Personal Realignment
+### ✧ Step 2: A Personal Talk
 
-The person looks at themselves honestly and lets go of what they want to change.
+Relationship before transaction: we meet the founder as a human being first.
 
-✦ **Self-observation:** notice your own emotional, mental and energetic state.\
-✦ **Energy cleansing:** release the blocks and patterns you want to transform, using the provider's own practices.\
-✦ **Vibrational realignment:** work with healing frequencies to bring yourself back into harmony.\
-✦ **Conscious integration:** notice what has changed, take responsibility for yourself and get ready to continue.
+✦ **Getting to know each other:** who the founder is, what their initiative does and why it matters to them.\
+✦ **Listening:** what they need, and what they bring to the community.\
+✦ **Choosing together:** both sides decide freely whether to go on.
 
-### ✧ Stage 3: Commitment to Sovereignty and Universal Ethics
+### ✧ Step 3: Cleansing with Quantum and Cosmic Frequencies
 
-The person makes five promises. They are written as "I" because each provider says them for themselves. They sit alongside the [HerzCodex](../herzcodex.md).
+Cleansing lets go of what is old, so the work can begin on a clear field.
 
-✦ **Personal sovereignty:** I respect every person's free will, decisions and boundaries.\
-✦ **Universal ethics:** I act with honesty, integrity, respect and responsibility.\
-✦ **No interference:** I do not push my beliefs, my will or my practices onto anyone.\
-✦ **Confidentiality:** I respect the privacy of everything personal that is shared with me.\
-✦ **Harmony and responsibility:** I commit to behaving consciously and respectfully, in line with the principles of the community.
+✦ **Clearing:** we work with quantum and cosmic frequencies to release blocks and old patterns from the founder's field.\
+✦ **Noticing:** the founder notices how they feel during and after the cleansing.\
+✦ **Looking together:** afterwards we look together at what has changed. If the field is clear, we begin working together. If something still needs work, we go on to Step 4.
+
+### ✧ Step 4: Realignment, Only Where Needed
+
+Cleansing releases what is old. Realignment brings the founder back into harmony. We offer it only where the cleansing showed it is needed, and the founder chooses whether to take it.
+
+✦ **Looking within:** the founder notices their own emotional, mental and energetic state.\
+✦ **Realigning:** we work with frequencies to bring the founder back into harmony.\
+✦ **Integrating:** the founder takes time to notice what has changed and takes responsibility for it. Then we begin working together.
