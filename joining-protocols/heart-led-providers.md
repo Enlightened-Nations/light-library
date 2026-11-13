@@ -29,7 +29,6 @@ Everyone who works with us lives by the same shared ethics. So this comes first,
 Our network grows by invitation: nobody joins without one. Relationship before transaction: we meet the founder as a human being first.
 
 * **The invitation:** once the founder has accepted the HerzCodex, we invite them to a personal talk.
-
 * **Getting to know each other:** who the founder is, what their initiative does and why it matters to them.
 * **Listening:** what they need, and what they bring to the community.
 * **Choosing together:** both sides decide freely whether to go on.
