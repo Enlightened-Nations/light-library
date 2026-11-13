@@ -5,7 +5,7 @@
 
 ## Joining Protocols
 
-* [Heart-Led Providers](joining-protocols/heart-led-providers.md)
+* [Light Weavers](joining-protocols/light-weavers.md)
 
 ## Light Node Activation
 

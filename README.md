@@ -11,7 +11,7 @@ An easy to follow, step by step guide for regenerative solar civilisations activ
 
 [Read our HerzCodex](herzcodex.md)
 
-[Begin with a Heart-Led Provider](joining-protocols/heart-led-providers.md)
+[Begin as a Light Weaver](joining-protocols/light-weavers.md)
 
 [Plant a Tree](light-node-activation/tree-planting.md)
 
