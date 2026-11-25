@@ -22,3 +22,4 @@
 ## Light Sanctuaries
 
 * [Healthy Living](light-sanctuaries/healthy-living.md)
+* [Hygiene](light-sanctuaries/hygiene.md)
