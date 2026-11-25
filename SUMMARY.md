@@ -5,8 +5,8 @@
 
 ## Joining Protocols
 
-* [Light Weavers](joining-protocols/light-weavers.md)
 * [Hygiene](joining-protocols/hygiene.md)
+* [Light Weavers](joining-protocols/light-weavers.md)
 
 ## Light Node Activation
 
