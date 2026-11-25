@@ -33,7 +33,7 @@ It was started in the sowing season of corn, beans and strawberries, with the en
 
 ## 2. Blumenspirale ✧ Austria
 
-The Flower Spiral was built at the Wiccian headquarters in Freistadt, Upper Austria, by a whole family, with the youngest niece and nephew helping too. It rests between old trees, next to a small altar on a tree stump, and is decorated with flowers, feathers, shells and crystals.
+The Flower Spiral was built on 13 September 2026 at the Wiccian headquarters in Freistadt, Upper Austria, by a whole family, with the youngest niece and nephew helping too. It rests between old trees, next to a small altar on a tree stump, and is decorated with flowers, feathers, shells and crystals.
 
 <figure><img src="../../.gitbook/assets/Blumenspirale 1.jpg" alt="The finished Blumenspirale between old trees, with flowers and an altar"><figcaption></figcaption></figure>
 
