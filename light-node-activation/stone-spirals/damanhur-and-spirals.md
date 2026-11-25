@@ -79,7 +79,7 @@ We strongly advise to place a kids spiral without Selfica activation close by an
 
 ## Sources & Alignments
 
-This document has been created in alignment with guidelines from Damanhur, Italy, renowned for over 200 documented planetary stone spirals. For full information and alignment, please contact them via [spirals@damanhur.org](mailto:spirals@damanhur.org).
+This document has been created in alignment with guidelines from Damanhur, Italy, renowned for over 200 documented planetary stone spirals. Additional inputs & guidance were provided by **the secretary for the Spirals of Damanhur.** For full information and alignment, please contact them via [spirals@damanhur.org](mailto:spirals@damanhur.org).
 
 You can find specific information on their site [damanhur.community/spirals-project](https://damanhur.community/spirals-project)
 
