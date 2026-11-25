@@ -20,3 +20,7 @@ An easy to follow, step by step guide for regenerative solar civilisations activ
 [Build a Spiral](light-node-activation/stone-spirals/)
 
 [Build a Medicine Wheel](light-node-activation/medicine-wheels.md)
+
+[Live Free from Toxins](light-sanctuaries/healthy-living.md)
+
+[Care for Body, Heart and Mind](light-sanctuaries/hygiene.md)
