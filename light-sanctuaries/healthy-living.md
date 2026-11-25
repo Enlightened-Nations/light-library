@@ -16,7 +16,7 @@ A Light Sanctuary is a place where body, home and nature can rest. So we choose 
 #### Our five basic guidelines
 
 ✦ No aluminium in deodorants\
-✦ No fluoride in toothpaste, drinking water and more\
+✦ No fluoride in toothpaste, drinking water, salt and more\
 ✦ No plastic in the kitchen where it touches heat or hot food\
 ✦ No Teflon or other non-stick pans\
 ✦ Only biodegradable, organic soaps and cleaning products
@@ -53,6 +53,7 @@ Heat makes plastic and non-stick coatings release particles and chemicals into f
 | Aluminium foil and aluminium pots for cooking    | Baking paper without coating, lids, stainless steel      |
 | Plastic tea bags and coffee capsules             | Loose tea, a metal strainer, a French press or a filter  |
 | Heating food in plastic                          | Heating food only in glass, ceramic or metal             |
+| Salt with added fluoride (check the label)       | Natural sea salt or rock salt without additives          |
 
 ## Cleaning
 
