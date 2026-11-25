@@ -32,11 +32,10 @@ At Damanhur we believe spirals are not just shapes to be observed, but multi-dim
 ✦ Minimum 120 average steps one can take within the spiral\
 ✦ All stones need to touch each other, grass and roots will create the connection between them over time.\
 ✦ Ideally use round water stones which are better for a harmonic flow\
-✦ Eventually adding some earth stones from the local region\
-✦ As alternative to round stones you can use local earth stones, preferably from the property itself, or otherwise from the region.\
+✦ Optionally add some local earth stones, or use them instead of round stones, preferably from the property itself, or otherwise from the region.\
 ✦ We usually don't use Gemstones in the spirals, unless they have a special function, programmed into the crystal only by Damanhur.
 
-For the regional earth stones a larger stone gathering radius is acceptable. Collecting them as close as possible to where the stones will be placed ensures, the telouric lines are still connected.
+For the regional earth stones a larger stone gathering radius is acceptable. Collecting them as close as possible to where the stones will be placed ensures the telluric lines are still connected.
 
 However, rounded stones from a lake, river, or beach are always preferable.
 
@@ -48,7 +47,7 @@ However, rounded stones from a lake, river, or beach are always preferable.
 
 ## Uniqueness of each Spiral
 
-Each spiral connects with the history and the telouric lines of a place. Each spiral will develop its own purpose, that must be researched in each individual case. Some spirals for instance are specially healing, heart opening, bringing inner answers or enhance your dream work.
+Each spiral connects with the history and the telluric lines of a place. Each spiral will develop its own purpose, that must be researched in each individual case. Some spirals for instance are specially healing, heart opening, bringing inner answers or enhance your dream work.
 
 Damanhur asks everyone to document their spiral walks with name and the date they walked the spiral. After the first 1000 times people have entered a spiral a further activation can be performed, and a common effect can be identified by understanding peoples shared stories and experiences that are true for most people walking this one particular spiral.
 
@@ -60,7 +59,7 @@ In order to enhance the connection between the members of a group and their comm
 
 Walk only on the path in between the stones. When crossing over the stones, the spiral deactivates immediately. If this happens, just go out and give her some minutes to settle, before you start walking again.
 
-For maintenance you can walk across the spiral, as you are not interested to activate her.
+For maintenance you can walk across the spiral, as you don't intend to activate her.
 
 #### Caution with Selfica & Kids
 
@@ -68,7 +67,7 @@ Whilst children are welcome to help in the building of a spiral, once the spiral
 
 Babies and infants can be taken into the spiral protected in the mother's arms. During breastfeeding the aura of mother and child is strongly connected.
 
-We strongly advise to place a kids spiral without Selfica activation close by and explain your kids about the safe way of engaging with their own spiral. They might especially enjoy painting their kids spiral creatively.
+We strongly advise to place a kids spiral without Selfica activation close by and explain to your kids the safe way of engaging with their own spiral. They might especially enjoy painting their kids spiral creatively.
 
 ## How to walk the spiral
 
@@ -80,9 +79,9 @@ We strongly advise to place a kids spiral without Selfica activation close by an
 
 ## Sources & Alignments
 
-This document has been created in alignment with guidelines from Damanhur, Italy, reknown for over 200 documented planetary stone spirals. For full information and alignment, please contact them via [spirals@damanhur.org](mailto:spirals@damanhur.org).
+This document has been created in alignment with guidelines from Damanhur, Italy, renowned for over 200 documented planetary stone spirals. For full information and alignment, please contact them via [spirals@damanhur.org](mailto:spirals@damanhur.org).
 
-You can find specific informations on their site [damanhur.community/spirals-project](https://damanhur.community/spirals-project)
+You can find specific information on their site [damanhur.community/spirals-project](https://damanhur.community/spirals-project)
 
 In the link below you can find the map of Damanhurian spirals in the world:
 
