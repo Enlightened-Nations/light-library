@@ -13,6 +13,10 @@ An easy to follow, step by step guide for regenerative solar civilisations activ
 
 [Begin as a Light Weaver](joining-protocols/light-weavers.md)
 
+[Live Free from Toxins](joining-protocols/healthy-living.md)
+
+[Care for Body, Heart and Mind](joining-protocols/hygiene.md)
+
 [Plant a Tree](light-node-activation/tree-planting.md)
 
 [Seed a Fire Circle](light-node-activation/fire-circles/)
@@ -20,7 +24,3 @@ An easy to follow, step by step guide for regenerative solar civilisations activ
 [Build a Spiral](light-node-activation/stone-spirals/)
 
 [Build a Medicine Wheel](light-node-activation/medicine-wheels.md)
-
-[Live Free from Toxins](light-sanctuaries/healthy-living.md)
-
-[Care for Body, Heart and Mind](light-sanctuaries/hygiene.md)

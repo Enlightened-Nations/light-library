@@ -1,13 +1,13 @@
 ---
 description: >-
-  Caring for ourselves on every level: a clean body, clear emotions, kind
+  What we recommend to every Light Weaver: a clean body, clear emotions, kind
   thoughts and words, and actions that leave every place better.
 icon: droplet
 ---
 
 # Hygiene
 
-Hygiene is how we care for ourselves, so that we feel good and others feel good around us. In a Light Sanctuary we live close together, so this care is also a gift to everyone we share the space with.
+Hygiene is how we care for ourselves, so that we feel good and others feel good around us. We recommend it to every Light Weaver as part of being in our tribe: we meet and live close together, so this care is also a gift to everyone we share the space with.
 
 It starts with the body and goes all the way to our energy. We look at it through the five elements.
 

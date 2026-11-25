@@ -58,3 +58,11 @@ Cleansing releases what is old. Realignment brings the weaver back into harmony.
 * **Integrating:** the weaver takes time to observe what has changed and takes responsibility for it. Then we begin working together.
 
 ✧&#x20;
+
+### Living as a Light Weaver
+
+We recommend every weaver to care for body, heart and mind, and to keep their home free from everyday toxins:
+
+[hygiene.md](hygiene.md "mention")
+
+[healthy-living.md](healthy-living.md "mention")

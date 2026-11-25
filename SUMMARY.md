@@ -6,6 +6,8 @@
 ## Joining Protocols
 
 * [Light Weavers](joining-protocols/light-weavers.md)
+* [Healthy Living](joining-protocols/healthy-living.md)
+* [Hygiene](joining-protocols/hygiene.md)
 
 ## Light Node Activation
 
@@ -18,8 +20,3 @@
   * [Spiral Usage Guide](light-node-activation/stone-spirals/spiral-usage-guide.md)
   * [Damanhur & Spirals](light-node-activation/stone-spirals/damanhur-and-spirals.md)
 * [Medicine Wheels](light-node-activation/medicine-wheels.md)
-
-## Light Sanctuaries
-
-* [Healthy Living](light-sanctuaries/healthy-living.md)
-* [Hygiene](light-sanctuaries/hygiene.md)

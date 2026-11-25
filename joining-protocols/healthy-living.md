@@ -9,7 +9,7 @@ icon: leaf
 
 Many everyday things release small amounts of toxins into our bodies, our water and the land: metals, chemicals and tiny pieces of plastic. Alone they seem small, but they add up over the years.
 
-A Light Sanctuary is a place where body, home and nature can rest. So we keep these toxins out and choose what is natural, simple and kind to the Earth.
+A Light Sanctuary is a place where body, home and nature can rest. So we keep these toxins out and choose what is natural, simple and kind to the Earth. We recommend the same to every Light Weaver, at home too.
 
 ## Metals
 
