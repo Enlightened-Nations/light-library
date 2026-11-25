@@ -184,6 +184,6 @@ Main source: The book ✦ **Frauenheilkunde written by Sonia Emilia Rainbow**
 
 {% embed url="https://www.schamanismus.net/schamanismus/beitraege/mistelzweig/die-magische-kraft-der-spirale" %}
 
-Additional inputs & guidance came from **Damanhur's Spiral Ambassador.** To fin out more read [damanhur-and-spirals.md](damanhur-and-spirals.md "mention").
+Additional inputs & guidance were provided by **the secretary for the Spirals of Damanhur.** To find out more read [damanhur-and-spirals.md](damanhur-and-spirals.md "mention").
 
 Together with real life experiences of the **Enlightened Nations** **Light Tribe ✧**&#x20;
