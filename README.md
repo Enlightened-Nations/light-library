@@ -11,9 +11,9 @@ An easy to follow, step by step guide for regenerative solar civilisations activ
 
 [Read our HerzCodex](herzcodex.md)
 
-[Care for Body, Heart and Mind](joining-protocols/hygiene.md)
+[Care for Body, Heart and Mind](light-weavers-guide/hygiene.md)
 
-[Begin as a Light Weaver](joining-protocols/light-weavers.md)
+[Begin as a Light Weaver](light-weavers-guide/light-weavers.md)
 
 [Plant a Tree](light-node-activation/tree-planting.md)
 

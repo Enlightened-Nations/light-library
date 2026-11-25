@@ -3,10 +3,10 @@
 * [Light Library ✧](README.md)
 * [HerzCodex ✧](herzcodex.md)
 
-## Joining Protocols
+## Light Weaver's Guide
 
-* [Hygiene](joining-protocols/hygiene.md)
-* [Light Weavers](joining-protocols/light-weavers.md)
+* [Hygiene](light-weavers-guide/hygiene.md)
+* [Light Weavers](light-weavers-guide/light-weavers.md)
 
 ## Light Node Activation
 
