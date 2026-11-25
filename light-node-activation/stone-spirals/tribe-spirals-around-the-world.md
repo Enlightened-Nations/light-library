@@ -1,20 +1,13 @@
 ---
 description: >-
-  Beautiful spirals built by our community in their own way. They don't follow
-  every requirement of an EN shamanic spiral, but we love to honour them and
-  share their story with our global Light Tribe.
+  Spirals our tribe built in their own way, without every requirement of an EN
+  spiral. We love to honour them and share their stories.
 icon: seedling
 ---
 
 # Tribe Spirals around the World
 
-## What is a Tribe Spiral?
-
-A Tribe Spiral is a stone spiral that a family, a group of friends or a community has built with love and intention, in their own way.
-
-It does not meet every requirement of an [EN spiral](en-spirals-around-the-world.md), such as the 4 full rounds or the minimum diameter of 6 meters (see [README.md](README.md "mention")). Still, it holds the prayers of the people who built it and the spirit of the land it rests on. We are happy to name these spirals here and to celebrate everyone who builds them.
-
-If you have built a spiral and would like to see it here, send us its story and a few photos.
+Built a spiral? Share its story and a few photos in the **Spirals and Sacred Spaces** topic of our [Telegram group](https://t.me/c/EnlightenedNations/144).
 
 ## 1. Espiral Raíz ✧ Mexico
 
@@ -37,3 +30,15 @@ It was started in the sowing season of corn, beans and strawberries, with the en
 > Porque, aunque no sepamos exactamente hacia dónde vamos, siempre podemos recordar de dónde venimos.
 >
 > Esta espiral nace con la visión de volver al origen, honrar la tierra y recordar el camino de regreso a casa. 🌱🐢✨
+
+## 2. Blumenspirale ✧ Austria
+
+The Flower Spiral was built at the Wiccian headquarters in Freistadt, Upper Austria, by a whole family, with the youngest niece and nephew helping too. It rests between old trees, next to a small altar on a tree stump, and is decorated with flowers, feathers, shells and crystals.
+
+<figure><img src="../../.gitbook/assets/Blumenspirale 1.jpg" alt="The finished Blumenspirale between old trees, with flowers and an altar"><figcaption></figcaption></figure>
+
+<div><figure><img src="../../.gitbook/assets/Blumenspirale 2.jpg" alt="Children planting an offering where the spiral will be" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Blumenspirale 3.jpg" alt="Laying the first stones of the spiral" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../../.gitbook/assets/Blumenspirale 4.jpg" alt="Placing flowers and small stones in the growing spiral"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Blumenspirale 5.jpg" alt="Smudging the finished Blumenspirale"><figcaption></figcaption></figure>
