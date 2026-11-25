@@ -6,7 +6,7 @@
 ## Light Weaver's Guide
 
 * [Hygiene](light-weavers-guide/hygiene.md)
-* [Light Weavers](light-weavers-guide/light-weavers.md)
+* [Becoming a Light Weaver](light-weavers-guide/becoming-a-light-weaver.md)
 
 ## Light Node Activation
 

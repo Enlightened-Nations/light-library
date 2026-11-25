@@ -13,7 +13,7 @@ An easy to follow, step by step guide for regenerative solar civilisations activ
 
 [Care for Body, Heart and Mind](light-weavers-guide/hygiene.md)
 
-[Begin as a Light Weaver](light-weavers-guide/light-weavers.md)
+[Begin as a Light Weaver](light-weavers-guide/becoming-a-light-weaver.md)
 
 [Plant a Tree](light-node-activation/tree-planting.md)
 

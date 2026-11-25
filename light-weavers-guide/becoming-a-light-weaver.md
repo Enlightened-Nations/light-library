@@ -5,7 +5,7 @@ description: >-
 icon: door-open
 ---
 
-# Light Weavers
+# Becoming a Light Weaver
 
 A Light Weaver brings their place, work or initiative into our circular economy and weaves it into the network. This is how we begin working with a new weaver. There are four steps, always in this order. The HerzCodex is the door. The last step happens only where it is needed.
 
