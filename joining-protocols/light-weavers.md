@@ -61,8 +61,6 @@ Cleansing releases what is old. Realignment brings the weaver back into harmony.
 
 ### Living as a Light Weaver
 
-We recommend every weaver to care for body, heart and mind, and to keep their home free from everyday toxins:
+We recommend every weaver to care for body, heart and mind:
 
 [hygiene.md](hygiene.md "mention")
-
-[healthy-living.md](healthy-living.md "mention")
